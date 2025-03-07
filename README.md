@@ -8,7 +8,7 @@ This is a simple **Introduction App** developed as part of the **Mobile Applicat
 
 ## 📁 Project Structure
 ```
-Lab_3/
+Lab-Journal-3/
 │── lab_3.dart      # Flutter app source code
 │── Lab Journal 3.docx  # Lab report documentation
 │── ss_1.png       # Screenshot of the application
