@@ -42,7 +42,9 @@ Ensure you have the following installed:
 ## 📸 Screenshots
 Here is a preview of the application:
 
-![App Screenshot](ss_1.png)
+<p align="center">
+  <img src="ss_1.png" alt="App Screenshot">
+</p>
 
 ## 📜 License
 This project is for educational purposes.
@@ -55,5 +57,4 @@ This project is for educational purposes.
 - **Class:** BS-CS 6-B
 
 ---
-💡 *Happy Coding! 🎉*
 
