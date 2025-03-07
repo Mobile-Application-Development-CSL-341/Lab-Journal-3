@@ -31,7 +31,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Lab_3.git
+   git clone https://github.com/Mobile-Application-Development-CSL-341/Lab-Journal-3.git
    cd Lab_3
    ```
 2. Run the app:
@@ -57,4 +57,3 @@ This project is for educational purposes.
 - **Class:** BS-CS 6-B
 
 ---
-
